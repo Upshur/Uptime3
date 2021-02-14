@@ -30,7 +30,7 @@ client.on("ready", () => {
     activity: {
       name: "evolve",
       type: "PLAYING",
-      url: "URL"
+      url: "!yardım"
     }
   });
 });
@@ -62,7 +62,6 @@ const help = new discord.MessageEmbed()
 .setColor("RED")
 .setThumbnail('https://i.imgur.com/4M7IWwP.gif')
 .setDescription(`Selamlar, botunu uptime etmeye hazırmısın? \n artık kolay bir şekilde botunu 7/24 aktif edebilirsin! \n\n🤹 uptime olmak için \`!ekle [glitch linki]\` yazabilirsin \n🎭 Uptime ettiğin botlarımı görmek istiyorsun \`!göster\` `)
-
 
 
 
