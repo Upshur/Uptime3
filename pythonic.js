@@ -61,7 +61,7 @@ const help = new discord.MessageEmbed()
 .setFooter("evolve uptime yardımcısı")
 .setColor("RED")
 .setThumbnail('https://i.imgur.com/4M7IWwP.gif')
-.setDescription(`Selamlar, botunu uptime etmeye hazırmısın? \n artık kolay bir şekilde botunu 7/24 aktif edebilirsin! \n\n🤹 uptime olmak için \`!ekle [glitch linki]\` yazabilirsin \n🎭 Uptime ettiğin botlarımı görmek istiyorsun \`!göster\` `)
+.setDescription(`Selamlar, botunu uptime etmeye hazırmısın? \n artık kolay bir şekilde botunu 7/24 aktif edebilirsin! \n\n<a:emoji_9:807057045253521488> uptime olmak için \`!ekle [glitch linki]\` yazabilirsin \n<a:emoji_13:807058166965731328> Uptime ettiğin botlarımı görmek istiyorsun \`!göster\` `)
 
 
 
