@@ -30,7 +30,7 @@ client.on("ready", () => {
     activity: {
       name: "evolve",
       type: "PLAYING",
-      url: "!yardım"
+      url: "PLAYING"
     }
   });
 });
